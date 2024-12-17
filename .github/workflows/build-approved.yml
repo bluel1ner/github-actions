@@ -22,5 +22,4 @@ jobs:
           java-version: '17'
           distribution: 'temurin'
           cache: maven
-          server-username: READ_PACKAGE_USERNAME
-          server-password: READ_PACKAGE_TOKEN
+
